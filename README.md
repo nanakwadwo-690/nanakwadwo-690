@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Agyemang Kwadwo Ofori
 
 <!--
 **nanakwadwo-690/nanakwadwo-690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
